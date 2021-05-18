@@ -5,5 +5,6 @@ public class TestGitDemo01 {
 
         System.out.println("这是TestGitDemo01");
         System.out.println("我修改过了TestGitDemo01");
+        System.out.println("目前分支是student01");
     }
 }
